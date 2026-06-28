@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ridit2011.github.io/timepass/sitemap.xml
